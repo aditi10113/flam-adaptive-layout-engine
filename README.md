@@ -104,7 +104,7 @@ The `tiny-kiosk` profile is only 320×260 with touch minimums and `maxElements: 
 
 ## Time spent
 
-Approximately 4–5 hours for the core engine, demo, validation, renderer, and documentation.
+Approximately 2 - 3 days  for the core engine, demo, validation, renderer, and documentation.
 
 
 ## Verification
